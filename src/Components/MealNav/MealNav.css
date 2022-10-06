@@ -1,0 +1,15 @@
+.mealnav a {
+    background-color: blue;
+    color: white;
+    padding: 8px 10px;
+    margin: 4px;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.mealnav .active {
+    background-color: brown;
+}

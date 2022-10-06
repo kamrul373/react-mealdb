@@ -1,0 +1,17 @@
+.header a {
+    color: white;
+    background-color: indigo;
+    padding: 10px 30px;
+    margin: 10px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.header a:hover {
+    background-color: blueviolet;
+}
+
+.header a.active {
+    background-color: brown;
+    padding: 10px 60px;
+}

@@ -1,0 +1,26 @@
+.meal img {
+    width: 100%;
+    height: auto;
+}
+
+.meal {
+    padding: 20px;
+    background-color: darksalmon;
+    margin: 10px;
+}
+
+.meal button {
+    padding: 15px 0;
+    border: none;
+    border-radius: 6px;
+    background-color: brown;
+    color: white;
+    width: 70%;
+    cursor: pointer;
+    font-size: 18px;
+    transition: background-color .5s;
+}
+
+.meal button:hover {
+    background-color: rgb(124, 18, 18);
+}
